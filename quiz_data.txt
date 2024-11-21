@@ -1,0 +1,27 @@
+Which of the following functions is a built-in function in python?
+factorial(),print(),seed(),sqrt()
+print()
+
+Which of the following is not a core data type in Python programming?
+Tuples,Lists,Class,Dictionary
+class
+
+What arithmetic operators cannot be used with strings in Python?
+*,–,+,All of the mentioned
+–
+
+Which keyword is used for function in Python language?
+Function,def,Fun,Define
+def
+
+What does pip stand for python?
+Pip Installs Python,Pip Installs Packages,Preferred Installer Program,All of the mentioned
+Preferred Installer Program 
+
+Which of the following statements is used to create an empty set in Python?
+( ),[ ],{ },set()
+set()
+
+Which of the following is the truncation division operator in Python?
+|,//,/,%
+//
